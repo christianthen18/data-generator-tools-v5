@@ -1,0 +1,55 @@
+{
+  "payload": [
+    {
+      "originalPartnerReferenceNo": "WF2C321110546",
+      "originalReferenceNo": "724AGR20240701630",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C321117385",
+      "originalReferenceNo": "724AGR20240701628",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C3211244PR",
+      "originalReferenceNo": "724AGR20240701629",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C321139240",
+      "originalReferenceNo": "724AGR20240701631",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C3211467VV",
+      "originalReferenceNo": "724AGR20240701632",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C32115410U",
+      "originalReferenceNo": "724AGR20240701633",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C3211636Q8",
+      "originalReferenceNo": "724AGR20240701634",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C3211712MQ",
+      "originalReferenceNo": "724AGR20240701635",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C3211793GR",
+      "originalReferenceNo": "724AGR20240701636",
+      "serviceCode": "56"
+    },
+    {
+      "originalPartnerReferenceNo": "WF2C3211860HT",
+      "originalReferenceNo": "724AGR20240701637",
+      "serviceCode": "56"
+    }
+  ],
+  "apiRoute": "/api/integration/v1.0/debit/status"
+}

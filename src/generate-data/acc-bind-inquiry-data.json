@@ -1,0 +1,38 @@
+{
+  "payload": [
+    {
+      "partnerReferenceNo": "CWS58084611C"
+    },
+    {
+      "partnerReferenceNo": "CWS580854183"
+    },
+    {
+      "partnerReferenceNo": "CWS5808575GF"
+    },
+    {
+      "partnerReferenceNo": "CWS5808611Y4"
+    },
+    {
+      "partnerReferenceNo": "CWS580864835"
+    },
+    {
+      "partnerReferenceNo": "CWS5808682V0"
+    },
+    {
+      "partnerReferenceNo": "CWS5808755P5"
+    },
+    {
+      "partnerReferenceNo": "CWS5808786R9"
+    },
+    {
+      "partnerReferenceNo": "CWS58088213K"
+    },
+    {
+      "partnerReferenceNo": "CWS5808856C4"
+    },
+    {
+      "partnerReferenceNo": "CWS5808892NL"
+    }
+  ],
+  "apiRoute": "/api/integration/v1.0/registration-account-inquiry"
+}

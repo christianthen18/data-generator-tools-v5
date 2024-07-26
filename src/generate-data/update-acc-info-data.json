@@ -1,0 +1,205 @@
+{
+  "payload": [
+    {
+      "customerId": "PWS58994428EO",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5975296B8O",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS59080335TC",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5897439D4W",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5912875CI7",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5908839NMN",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS591481636F",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5913243831",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5928896925",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5935725A5R",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5921739LIB",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5915113Y9J",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5914950LCY",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS59177689W0",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5928958NRH",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS4335530HMA",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS4337010F37",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS433704274Q",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS5834190A90",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    },
+    {
+      "customerId": "PWS4337116U4O",
+      "lenderProductId": "DANA_CICIL_FALCON_01",
+      "updateInfoList": [
+        {
+          "updateKey": "limit",
+          "updateValue": "{\"Value\":700000000,\"Currency\":\"IDR\"}"
+        }
+      ]
+    }
+  ],
+  "apiRoute": "/api/integration/v1.0/user/update/account-info"
+}
