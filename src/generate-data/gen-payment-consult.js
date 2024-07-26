@@ -1,6 +1,7 @@
 import * as fs from "fs";
 import { Helper } from "../../lib/helper";
 import genRepaymentData from "./gen-repayment";
+import genRepaymentRefactorData from "./gen-repayment-refactor";
 import genRefundData from "./gen-refund";
 import genRefundWithoutRepaymentData from "./gen-refund-without-repayment";
 import path from "path";
@@ -484,6 +485,11 @@ export default async function genPaymentConsultData(opts) {
   }
 
   genRepaymentData({
+    data: _dataBillRepayment,
+    numData: numData,
+    repsDataPath: repsDataPath,
+  });
+  genRepaymentRefactorData({
     data: _dataBillRepayment,
     numData: numData,
     repsDataPath: repsDataPath,
