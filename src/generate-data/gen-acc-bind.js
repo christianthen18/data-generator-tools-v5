@@ -73,7 +73,7 @@ export default async function genAccBindData(opts) {
       phoneNo: "62" + phoneNo,
     };
     let timestamp = Helper.getFormattedDate();
-    const apiRoute = "/api/integration/v1.0/registration-account-creation";
+    const apiRoute = "/v1.0/registration-account-creation";
     const signature = await Helper.getSignature(payload, timestamp, apiRoute);
     _data.push({
       payload,
